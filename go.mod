@@ -237,4 +237,4 @@ require (
 	lukechampine.com/blake3 v1.1.6 // indirect
 )
 
-replace github.com/ipfs/go-ipfs => ../go-ipfs
+replace github.com/ipfs/go-ipfs => ./go-ipfs
